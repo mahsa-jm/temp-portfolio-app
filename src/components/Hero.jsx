@@ -16,7 +16,9 @@ const Hero = () => {
                     </p>
                     <p className='mt-2 text-lg text-slate-700 capitalize
                     tracking-wide'>
-                        turning ideas into interactive reality
+                         Welcome to my portfolio!
+                         With a passion for crafting visually stunning and user-friendly
+                         web applications, I specialize in transforming creative concepts into seamless digital experiences.
                     </p>
                     <div className='flex gap-x-4 mt-4'>
                         <a href='https://github.com/mahsa-jm' >
